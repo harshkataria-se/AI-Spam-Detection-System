@@ -47,6 +47,16 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+##Live Demo
+
+Streamlit Application:
+
+https://ai-spam-detection-system-dgmuo56lareo7v7i7zemsv.streamlit.app/
+
+GitHub Repository
+
+https://github.com/harshkataria-se/AI-Spam-Detection-System
+
 ## Future Improvements
 
 * Advanced NLP preprocessing
